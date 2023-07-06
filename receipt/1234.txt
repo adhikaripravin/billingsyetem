@@ -1,0 +1,18 @@
+	  TWO WHEELER BILLING SYSTEM
+ ----------------------------------------
+ Time: 00:47:44
+ Date: 2023-06-09
+ CUSTOMER NAME: ram
+ CUSTOMER PHONE NO: 6767
+ CUSTOMER Bike NO: 1234
+ CUSTOMER SERVICE BILL NO: 2899
+ ----------------------------------------
+ Parts		 Quantity		 Price
+ ----------------------------------------
+ Air Filter		 88		66000
+-----------------------------------------
+ Total Price: 				66000.0
+ 12% Discount: 				7920.0
+-----------------------------------------
+ Grand Total: 				58080.0
+-----------------------------------------

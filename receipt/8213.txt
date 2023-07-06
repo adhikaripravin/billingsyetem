@@ -1,0 +1,15 @@
+	  TWO WHEELER BILLING SYSTEM
+ ----------------------------------------
+ Current Time: 02:56:56
+ Current Date: 2023-06-07
+ CUSTOMER NAME: Hari Lal
+ CUSTOMER PHONE NO: 9818217052
+ CUSTOMER Bike NO: 8213
+ CUSTOMER SERVICE BILL NO: 7846
+ ----------------------------------------
+ Parts		 Quantity		 Price
+ ----------------------------------------
+ Led Headlight		 2		500
+-----------------------------------------
+ Total Price: 				500.0
+-----------------------------------------

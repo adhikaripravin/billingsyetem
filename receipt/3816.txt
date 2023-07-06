@@ -1,0 +1,17 @@
+	  TWO WHEELER BILLING SYSTEM
+ ----------------------------------------
+ Current Time: 01:56:04
+ Current Date: 2023-06-07
+ CUSTOMER NAME: Ram Prasad 
+ CUSTOMER PHONE NO: 123457
+ CUSTOMER Bike NO: 9012
+ CUSTOMER SERVICE BILL NO: 3816
+ ----------------------------------------
+ Parts		 Quantity		 Price
+ ----------------------------------------
+ Air Filter		 1		750
+ Engine Guard		 1		2200
+ Lubricant		 1		1280
+-----------------------------------------
+ Total Price: 				4230.0
+-----------------------------------------

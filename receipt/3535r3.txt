@@ -1,0 +1,18 @@
+	  TWO WHEELER BILLING SYSTEM
+ ----------------------------------------
+ Time: 00:10:55
+ Date: 2023-06-09
+ CUSTOMER NAME: tttt
+ CUSTOMER PHONE NO: 4353
+ CUSTOMER Bike NO: 3535r3
+ CUSTOMER SERVICE BILL NO: 3432
+ ----------------------------------------
+ Parts		 Quantity		 Price
+ ----------------------------------------
+ Air Filter		 9		6750
+-----------------------------------------
+ Total Price: 				6750.0
+ 12% Discount: 				810.0
+-----------------------------------------
+ Grand Total: 				5940.0
+-----------------------------------------

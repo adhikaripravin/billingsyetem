@@ -1,0 +1,15 @@
+	  TWO WHEELER BILLING SYSTEM
+ ----------------------------------------
+ Current Time: 03:14:06
+ Current Date: 2023-06-07
+ CUSTOMER NAME: prabin
+ CUSTOMER PHONE NO: 9818217052
+ CUSTOMER Bike NO: 9811
+ CUSTOMER SERVICE BILL NO: 3338
+ ----------------------------------------
+ Parts		 Quantity		 Price
+ ----------------------------------------
+ Led Headlight		 3		750
+-----------------------------------------
+ Total Price: 				750.0
+-----------------------------------------

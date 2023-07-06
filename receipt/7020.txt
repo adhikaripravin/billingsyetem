@@ -1,0 +1,20 @@
+	  TWO WHEELER BILLING SYSTEM
+ ----------------------------------------
+ Time: 02:01:58
+ Date: 2023-06-11
+ CUSTOMER NAME: Prabin Adhikari
+ CUSTOMER PHONE NO: 9818217052
+ CUSTOMER Bike NO: 7020
+ CUSTOMER SERVICE BILL NO: 1417
+ ----------------------------------------
+ Parts		 Quantity		 Price
+ ----------------------------------------
+ Air Filter		 1		750
+ Pegs		 1		300
+ Lubricant		 1		1280
+-----------------------------------------
+ Total Price: 				2330.0
+ 12% Discount: 				279.6
+-----------------------------------------
+ Grand Total: 				2050.4
+-----------------------------------------
